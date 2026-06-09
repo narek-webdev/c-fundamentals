@@ -25,28 +25,9 @@ A collection of C programs that solve problems using **bitwise operators** — o
 | `<<` | Left Shift | Shifts bits left (multiplies by 2) |
 | `>>` | Right Shift | Shifts bits right (divides by 2) |
 
----
-
-## ▶️ How to Compile & Run
-
-```bash
-gcc filename.c -o output && ./output
-```
-
-**Example:**
-```bash
-gcc even_or_odd.c -o even_or_odd && ./even_or_odd
-```
-
----
-
 ## 💡 Why Bitwise?
 
 Bitwise operations work directly on binary representations of numbers, making them:
 - ⚡ **Faster** than arithmetic operators
 - 🧮 **Memory efficient**
 - 🔩 Essential in **systems programming**, **embedded systems**, and **competitive programming**
-
----
-
-*Part of my [C Programming exercises](../README.md) at Picsart Academy.*
